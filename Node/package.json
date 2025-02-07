@@ -1,0 +1,15 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Learnings of the nodeJS",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "1Globals.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "loadash": "^1.0.0"
+  }
+}
